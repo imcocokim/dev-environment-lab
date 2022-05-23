@@ -1,5 +1,5 @@
 # dev-environment-lab
-
+![VS Code File Explorer](https://i.imgur.com/q0XJMza.png)
 ## OS
 
 darwin21.0
